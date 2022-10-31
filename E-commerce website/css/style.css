@@ -1,0 +1,31 @@
+/* Global Rules Starts  */
+:root {
+    -black:#333; 
+}
+* {
+    margin: 0;
+    padding:0; 
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+    list-style: none;
+    border:none; 
+    outline:none;
+    transition: all .3s linear;
+}
+html {
+    font-size:62.5%;
+}
+body{
+    overflow-x: hidden;
+}
+/* Global Rules Ends  */
+
+/* Basic Section Starts  */
+
+
+
+/* Basic Section Ends  */
+
+
+/* Media Queries  */
